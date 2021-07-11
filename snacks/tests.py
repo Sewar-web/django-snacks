@@ -1,7 +1,6 @@
 from django.test import TestCase, SimpleTestCase
 from django.urls import reverse
 
-# Create your tests here.
 
 class MoviesTests(SimpleTestCase):
     def test_home_page_status_code(self):
