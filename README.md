@@ -1,0 +1,1 @@
+https://github.com/Sewar-web/django-snacks/pull/1 
